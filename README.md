@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi 👋, I'm Chhaya Halpati
 
-<!--
-**Chhaya111/Chhaya111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- BCA (6th Semester) Student  
+- Full-Stack Web Developer (MERN Stack)  
+- Currently learning React.js & Blockchain Basics  
 
-Here are some ideas to get you started:
+* Skills
+- HTML, CSS, JavaScript
+- Bootstrap, React.js
+- Node.js, Express.js, REST APIs
+- MongoDB
+- Git, GitHub, Netlify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Projects
+- CampusBazar – Lost & Found Web Application
+- FireSurvival – JavaScript Game
+- Spotify-like Music App (Ongoing)
+
+* Contact
+- Email: chhayahalpati213@gmail.com
